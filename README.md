@@ -3,4 +3,4 @@
 
 ## Numpy-Practise
 
-Working with Numpy and trying to solve basic exercises from https://github.com/rougier/numpy-100/
+Working with Iterations,List, Dictionary, Numpy and trying to solve basic exercises from https://github.com/rougier/numpy-100/
