@@ -1,6 +1,5 @@
 # numpy exercises
 ```
-
 #### 1. Import the numpy package under the name `np` (★☆☆)
 
 
