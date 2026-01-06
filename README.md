@@ -1,5 +1,5 @@
 
-# “The best way to learn coding is by practice”
+# “The best way to learn coding is by practise”
 
 ## Numpy-Practise
 
